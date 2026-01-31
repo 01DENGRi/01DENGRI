@@ -18,6 +18,16 @@ I build tools and frameworks to protect boats, yachts, and patrol vessels from m
 
 ---
 
+## 🎓 Certifications
+
+- ✅ CPTS — Certified Penetration Testing Specialist  
+- ✅ OSCP — Offensive Security Certified Professional  
+- ✅ CRTE — Certified Red Team Expert  
+- ✅ eWPTX — eLearnSecurity Web Penetration Testing eXtreme
+- ✅ CDSA — Certified Defensive Security Analyst
+
+---
+
 ## 🛠️ Current Projects
 
 ### 🔭 RATEL.DECK
@@ -40,16 +50,6 @@ A **Raspberry Pi Zero W–based** wireless monitoring & honeypot system for mari
 - Remote alerts via VPN & Telegram  
 - Low‑power design for marine deployment
   
----
-
-## 🎓 Certifications
-
-- ✅ CPTS — Certified Penetration Testing Specialist  
-- ✅ OSCP — Offensive Security Certified Professional  
-- ✅ CRTE — Certified Red Team Expert  
-- ✅ eWPTX — eLearnSecurity Web Penetration Testing eXtreme
-- ✅ CDSA — Certified Defensive Security Analyst
-
 ---
 
 ## 🎯 Areas of Interest
