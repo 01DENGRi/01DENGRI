@@ -31,7 +31,7 @@ I build tools and frameworks to protect boats, yachts, and patrol vessels from m
 ## 🛠️ Current Projects
 
 ### 🔭 RATEL.DECK
-An operational command desk for **CTF, red team, and certification workflows**.
+A cyber operations platform for managing **CTF challenges, red team engagements, and certification workflows**.
 
 Designed to help operators manage:
 - targets & tasks  
